@@ -1,2 +1,2 @@
-# Using-Python-in-statistical-learning-books
+# Using Python in statistical learning books
 [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) and Elements of Statistical Learning are two valuable books in teaching concepts of statistical modeling related to data science and machine learning by the same authors and the same publisher. The latter is heavier on mathematical concepts. R programming language is used throughout chapters in examples and modeling. I apply Python’s various packages to do the same.
